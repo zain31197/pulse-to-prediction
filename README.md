@@ -338,8 +338,8 @@ pip install numpy pandas matplotlib seaborn scipy statsmodels dtaidistance sciki
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/zain31197/pulse-to-prediction.git
+cd pulse-to-prediction
 
 # 2. (Optional) Create a virtual environment
 python -m venv venv

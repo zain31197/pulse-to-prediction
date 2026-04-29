@@ -40,7 +40,7 @@
 
 ## 🔭 Overview
 
-Hospitals collect vital signs around the clock from wearable devices and clinical monitoring systems — but raw data alone doesn't answer the critical questions:
+Hospitals collect vital signs around the clock from wearable devices and clinical monitoring systems  but raw data alone doesn't answer the critical questions:
 
 > *Which patients are trending toward a critical condition? Who is clinically similar to known high-risk cases? Can we automatically classify a new patient's diagnosis from their vital history?*
 
